@@ -94,9 +94,9 @@ const hasan = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hasanmahfudh11211&theme=radical&hide_border=true)
 
