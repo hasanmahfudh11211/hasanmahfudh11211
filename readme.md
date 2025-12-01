@@ -94,9 +94,9 @@ const hasan = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hasanmahfudh11211&theme=radical&hide_border=true)
 
@@ -134,7 +134,7 @@ const hasan = {
 <h3 align="center">Monitoring PPPoE Mikrotik</h3>
 <div align="center">
 <a href="https://github.com/hasanmahfudh11211/Monitoring-PPPoE-Mikrotik-Flutter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanmahfudh11211&repo=Monitoring-PPPoE-Mikrotik-Flutter&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hasanmahfudh11211&repo=Monitoring-PPPoE-Mikrotik-Flutter&theme=radical&hide_border=true" />
 </a>
 <p>
 <a href="https://github.com/hasanmahfudh11211/Monitoring-PPPoE-Mikrotik-Flutter">
@@ -147,7 +147,7 @@ const hasan = {
 <h3 align="center">Mikrotik Flutter</h3>
 <div align="center">
 <a href="https://github.com/hasanmahfudh11211/Mikrotik-Flutter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanmahfudh11211&repo=Mikrotik-Flutter&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hasanmahfudh11211&repo=Mikrotik-Flutter&theme=radical&hide_border=true" />
 </a>
 <p>
 <a href="https://github.com/hasanmahfudh11211/Mikrotik-Flutter">
@@ -162,7 +162,7 @@ const hasan = {
 <h3 align="center">Found.it</h3>
 <div align="center">
 <a href="https://github.com/hasanmahfudh11211/Found.it">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanmahfudh11211&repo=Found.it&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hasanmahfudh11211&repo=Found.it&theme=radical&hide_border=true" />
 </a>
 <p>
 <a href="https://github.com/hasanmahfudh11211/Found.it">
@@ -175,7 +175,7 @@ const hasan = {
 <h3 align="center">Test Lofo</h3>
 <div align="center">
 <a href="https://github.com/hasanmahfudh11211/test-lofo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanmahfudh11211&repo=test-lofo&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hasanmahfudh11211&repo=test-lofo&theme=radical&hide_border=true" />
 </a>
 <p>
 <a href="https://github.com/hasanmahfudh11211/test-lofo">
