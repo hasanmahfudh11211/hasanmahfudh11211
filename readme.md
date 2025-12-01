@@ -94,14 +94,11 @@ const hasan = {
 
 <div align="center">
 
-<a href="https://github.com/hasanmahfudh11211">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true)
 
-<a href="https://github.com/hasanmahfudh11211">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmahfudh11211&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hasanmahfudh11211&theme=radical&hide_border=true)
 
 </div>
 
