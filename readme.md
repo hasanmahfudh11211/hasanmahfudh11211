@@ -95,7 +95,7 @@ const hasan = {
 <div align="center">
 
 <a href="https://github.com/hasanmahfudh11211">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasanmahfudh11211&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmahfudh11211&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 </a>
 
